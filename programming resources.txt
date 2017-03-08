@@ -1,0 +1,47 @@
+1. What is a backend server?
+		The backend part is what the user doesn't see, they use the front end. It is where the databases and servers are stored and where developers produce content.
+	
+	What are 3 good resouces for understanding servers?
+		https://www.reference.com/technology/back-end-server-d4d0f1b851cd7424#
+		https://en.wikipedia.org/wiki/Front_and_back_ends#Back-end_focused
+		https://www.pluralsight.com/blog/film-games/whats-difference-front-end-back-end
+	
+	What do you like specifically about these resources?
+		The first website is answered by a verified user on the website, and has an in-depth description about the topic.
+		The second website is also answered by a user, but is verified by other users who can confirm the facts/ fix them if they are wrong
+		The last website has an in-depth description of both front and back end servers to give an idea of how they compare and contrast.
+
+2. What is an SQL vs. a noSQL database?
+		SQL: "Structured Query Language is stored in a relational row with rows and columns. Rows contain information about specific entries and columns are the associated data points." 
+		noSQL : "Contains a host of databases with different data storage models."
+		SQL databases contain schema that make it easier to define tables and field types such as primary keys, indexes, secondary keys, and relationships. NoSQL databases can have data added to them anywhere at any time. 
+		
+	Two good blog entries
+		https://www.sitepoint.com/sql-vs-nosql-differences/
+		http://dataconomy.com/2014/07/sql-vs-nosql-need-know/
+
+	Why are these useful?
+		The first website debunks a list of myths that people have about SQL databases. They also have examples of different coding that you can use for noSQL and SQL databases.
+		The second website has a chart directly comparing the two types of databases with explanations. 
+
+3. Where do you go to find help on javascript questions?
+		I often consult WW3schools for basic questions or problems I'm having with javascript coding. Here, I can find the syntax of each function and how it works. When I am looking for more case specific information I usually use stackoverflow to see what other problems users are having. Sometimes I am able to find snippets of code I can use in my own. 
+	
+	Let’s say you want to find information on how promises work in ES6. What does that mean?
+		"Promise is an object used for asynchronous computations where 'promise' represents a value which may be available now, in the future, or never." 
+	
+	Make a list of at least 3 resources you consulted in finding that answer.
+		https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
+		http://www.datchley.name/es6-promises/
+		https://ponyfoo.com/articles/es6-promises-in-depth
+
+4. Imagine you are working on a problem with using git to merge files from another contributor on your project. What resources can you find to help you understand git merge? 
+		I can use the git-scm.com website to learn about git merge, or type 'git merge' into google to find other sources.
+	
+	On your system, what editor gets launched to show merges? How do you use it to edit text, save, and exit?
+		On my system, I launch terminal to use git commands such as pull, commit, merge, etc. When editing coding (or typing this homework into a text file) I use Sublime text. 
+
+
+
+
+
